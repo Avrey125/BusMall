@@ -1,0 +1,70 @@
+figure {
+    border: 1px solid black;
+    max-width: 200px;
+    
+}
+figure img {
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    min-width: 100%;
+}
+figcaption {
+    background-color: ivory;
+    font-weight: bold;
+    line-height: 2em;
+    text-align: center;
+}
+#figure3{
+    position:absolute;
+    left:500px;
+   }
+figure{
+    position:absolute;
+}
+#figure2{
+    position:absolute;
+    left:1000px;
+
+}
+body > header {
+    background:aquamarine;
+    color: black;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    font-size:35px;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+body > footer {
+    background: ivory;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+body > main {
+    margin: 1.5em;
+}
+
+div, figure {
+    margin: 1em;
+}
+img{
+    width:300px;
+    height:300px;
+    border: 2px solid black;
+}
+section{
+ 
+    position:relative;
+
+}
+body{
+    background-color: cyan;
+}
