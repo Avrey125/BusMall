@@ -40,6 +40,14 @@ h1 {
     font-size: 2.5em;
     font-weight: bold;
 }
+canvas{   
+        background: #eee;
+        border: 1px solid black;
+        border-radius: 50px;
+        margin-top:500px;
+
+        
+}
 
 body > footer {
     background: ivory;
@@ -60,10 +68,8 @@ img{
     height:300px;
     border: 2px solid black;
 }
-section{
- 
+section{  
     position:relative;
-
 }
 body{
     background-color: cyan;
